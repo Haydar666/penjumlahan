@@ -28,6 +28,4 @@ class Welcome extends CI_Controller {
 	}
 }
 
-public function penjumlahan($nilai1, $nilai2){
-	echo $this->Model_aritmatika->penjumlahan($nilai, $nilai2):
-}
+// public function penjumlahan($nilai1, $nilai2){echo $this->Model_aritmatika->penjumlahan($nilai, $nilai2);
